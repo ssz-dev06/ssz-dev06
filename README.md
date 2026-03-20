@@ -9,5 +9,3 @@ Soy desarrollador backend enfocado en Javascript (+ HTML y CSS), Typescript, Nes
 <p align="center">
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" />
 </p>
-
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiriblade&theme=dark" /> </p>
