@@ -1,6 +1,6 @@
 ## 𝓗𝓮𝓵𝓵𝓸  :)
 
-Me encanta el mundo de la tecnología y de allí entonces es que nace mi pasión por el desarrollo, me gusta poder resolver los problemas que se presenten durante las etapas de desarrollo y aprender sobre ello en el proceso.
+Me encanta el mundo de la tecnología y de allí entonces es que nace mi pasión por el desarrollo, me gusta poder resolver los problemas que se me presenten durante las etapas de desarrollo y aprender sobre ello en el proceso.
 
 Soy un desarrollador backend enfocado en Javascript (+ HTML y CSS), Typescript, Nest.js y PostgreSQL aunque también cuento con experiencia en tecnologías frontend como React o Next, por lo que también puedo trabajar como desarrollador frontend o como desarrollador fullstack.
 
